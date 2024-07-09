@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+public/4.glb
+public/6.glb
+public/7.glb
