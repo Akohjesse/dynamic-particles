@@ -236,7 +236,7 @@ function animateParticlesOut(onComplete) {
         onComplete: () => {
             gsap.to(params, {
                 maxDisplacement: 10,
-                circleRadius: 70,
+                circleRadius: 80,
                 duration: 1,
                 ease:"power1.inOut",
                 onComplete: onComplete
